@@ -1,0 +1,2 @@
+Small program for to read excel list of products and output html for each individual item.
+The program uses the random function to give each item a unique identifying string
